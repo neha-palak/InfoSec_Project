@@ -8,10 +8,11 @@
 
 ### **Author**
 
-**Name:** [Your Full Name]
+**Name:** Neha Palak
+
 **Course:** CS-3610: Information Security (Monsoon 2025)
+
 **Instructor:** Subhashis Banerjee
-**Due Date:** November 15, 2025
 
 ---
 
