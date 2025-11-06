@@ -1,5 +1,3 @@
-## 📝 **README Template for Anti-Phishing Project**
-
 ### **Project Title**
 
 **Designing a Multi-Layered Anti-Phishing System to Mitigate Malicious Emails and Links**
