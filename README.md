@@ -27,10 +27,10 @@ The prototype (`scan_links.py`) scans a sample email text file, extracts URLs, a
 ### **2. Directory Structure**
 
 ```
-YourFullName_project/
+InfoSec_project/
 │
-├── report.pdf                     # 500-word written report
-├── README.txt                     # this file
+├── Project_Report.pdf                    
+├── README.md                    
 └── prototype/
     ├── scan_links.py              # main Python script
     ├── blocklist.txt              # sample malicious domains
@@ -38,7 +38,7 @@ YourFullName_project/
     │   ├── email1.txt             # phishing example
     │   ├── email2.txt             # benign example
     │   └── email3.txt             # mixed content
-    └── README.md                  # short readme for prototype (optional)
+    └── README.txt                  
 ```
 
 ---
@@ -47,8 +47,7 @@ YourFullName_project/
 
 * Python 3.8 or higher
 * No additional libraries required (only built-in modules)
-
-Optional: You can run it on any OS (Windows/macOS/Linux) with Python installed.
+* You can run it on any OS (Windows/macOS/Linux) with Python installed
 
 ---
 
@@ -89,7 +88,7 @@ URL: https://bit.ly/verify-paypal-12345
 
 ### **6. Connection to Report**
 
-This prototype represents the **“Content and Link Analysis Layer”** described in the 500-word report.
+This prototype represents the **“Content and Link Analysis Layer”** described in the report.
 It demonstrates how simple pattern-based and heuristic checks can help identify malicious links before they reach users, forming one component of a **multi-layered anti-phishing architecture** that also includes:
 
 * SPF/DKIM/DMARC authentication
