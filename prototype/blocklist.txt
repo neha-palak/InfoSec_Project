@@ -1,0 +1,6 @@
+phishy-paypal.com
+bad-domain.example
+free-gift-login.net
+malware-host.example
+update-your-bank.info
+secure-verification-login.org
