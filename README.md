@@ -107,6 +107,4 @@ It demonstrates how simple pattern-based and heuristic checks can help identify 
 
 ### **8. References**
 
-* OWASP Phishing Defense Cheat Sheet
-* RFC 7208 (SPF), RFC 6376 (DKIM), RFC 7489 (DMARC)
-* Google Safe Browsing API documentation
+* ...
