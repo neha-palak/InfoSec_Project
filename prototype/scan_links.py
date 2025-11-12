@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""
-Simple phishing link scanner demo.
-Usage:
-  python3 scan_links.py sample_emails/email1.txt
-Outputs flagged URLs and reasons.
-"""
+
 import re
 import sys
 from urllib.parse import urlparse
@@ -47,7 +42,7 @@ def check_url(url, blocklist):
         reasons.append("domain in blocklist")
     if dom.split(':')[0] in SHORTENER_DOMAINS:
         reasons.append("shortened URL (obscures target)")
-    # detect obvious obfuscation in the whole url
+    # detecting obvious obfuscation in the whole url
     for pat in OBFUSCATION_PATTERNS:
         if re.search(pat, url):
             reasons.append(f"matches obfuscation heuristic ({pat})")
