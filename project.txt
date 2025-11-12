@@ -1,3 +1,12 @@
+- write threat model acc to class guidelines
+- references
+- honour code
+- review the report (it looks very wordy rn)
+- format it well
+- polish the code
+-  
+
+
 You have to identify and outline a small, well-scoped security problem, and propose
 a holistic solution. Independent tools or techniques (like encryption or authentication)
 alone do not ensure security; the goal is to demonstrate how multiple mechanisms and design
