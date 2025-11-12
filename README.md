@@ -1,5 +1,3 @@
-## 📝 **README Template for Anti-Phishing Project**
-
 ### **Project Title**
 
 **Designing a Multi-Layered Anti-Phishing System to Mitigate Malicious Emails and Links**
@@ -8,10 +6,11 @@
 
 ### **Author**
 
-**Name:** [Your Full Name]
+**Name:** Neha Palak
+
 **Course:** CS-3610: Information Security (Monsoon 2025)
+
 **Instructor:** Subhashis Banerjee
-**Due Date:** November 15, 2025
 
 ---
 
