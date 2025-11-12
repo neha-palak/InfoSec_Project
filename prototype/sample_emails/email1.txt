@@ -1,0 +1,12 @@
+From: service@paypal.com
+Subject: Urgent: Verify your account immediately
+Date: Thu, 7 Nov 2025 10:23:00 +0530
+
+Dear user,
+
+We noticed unusual activity in your PayPal account.
+Please verify your account immediately to avoid suspension:
+https://bit.ly/verify-paypal-12345
+
+Thank you,
+PayPal Security Team
