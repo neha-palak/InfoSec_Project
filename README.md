@@ -4,8 +4,6 @@
 
 ---
 
-### **Author**
-
 **Name:** Neha Palak
 
 **Course:** CS-3610: Information Security (Monsoon 2025)
@@ -28,16 +26,15 @@ The prototype (`scan_links.py`) scans a sample email text file, extracts URLs, a
 ```
 InfoSec_project/
 │
-├── Project_Report.pdf                    
+├── Report.pdf                    
 ├── README.md                    
 └── prototype/
-    ├── scan_links.py              # main Python script
-    ├── blocklist.txt              # sample malicious domains
+    ├── scan_links.py              
+    ├── blocklist.txt             
     ├── sample_emails/
-    │   ├── email1.txt             # phishing example
-    │   ├── email2.txt             # benign example
-    │   └── email3.txt             # mixed content
-    └── README.txt                  
+        ├── email1.txt             
+        ├── email2.txt             
+        └── email3.txt                          
 ```
 
 ---
@@ -46,7 +43,6 @@ InfoSec_project/
 
 * Python 3.8 or higher
 * No additional libraries required (only built-in modules)
-* You can run it on any OS (Windows/macOS/Linux) with Python installed
 
 ---
 
