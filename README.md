@@ -2,7 +2,6 @@
 
 **Designing a Multi-Layered Anti-Phishing System to Mitigate Malicious Emails and Links**
 
-* report link : https://www.overleaf.com/project/6914d447b6d0865dde5b8c5c
 ---
 
 ### **Author**
@@ -95,16 +94,3 @@ It demonstrates how simple pattern-based and heuristic checks can help identify 
 * UI warnings and banners
 * Reporting and monitoring layers
 
----
-
-### **7. Limitations and Future Work**
-
-* This demo uses static heuristics; a real deployment would integrate live threat intelligence APIs.
-* It does not validate SSL certificates or inspect attachments.
-* Future work could include machine learning–based URL classification, sandboxed link testing, and integration with mail servers.
-
----
-
-### **8. References**
-
-* ...
